@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: products-mcp-server
+
+logging:
+  level:
+    com.example.products_mcp_server: DEBUG
+
+server:
+  port: 8081
